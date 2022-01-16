@@ -10,5 +10,5 @@ int main()
     s.insert(2);
     s.insert(3);
     s.insert(1);
-    cout<<s.count(99)<<endl;
+    cout<<s.count(2)<<endl;// this function shows that this element is in set or not(and it print '0' or '1'
 }
