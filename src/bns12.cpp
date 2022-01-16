@@ -1,0 +1,1 @@
+//https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWhmbUlWdDg5NEhHckdweTdpclZOT2tnT3pXd3xBQ3Jtc0tuNW5wbUpKUHpUWURLUXhPQ0V2czhRUTFrVlNtT1YzMmt3cm1uQmJkYklUeEpDVFBudUhCMmxWSDNoRHJqR1ZUeDVfcmhXR2l1aVNyMmstVzJ1YnRsV3ozWVlqQW44ZHBpSExLdTI1S1h0Wllta21yWQ&q=https%3A%2F%2Fleetcode.com%2Fproblems%2Fsearch-insert-position%2F
